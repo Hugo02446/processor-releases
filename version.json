@@ -1,6 +1,6 @@
 {
   "version": "1.2.0",
   "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.2.0/Processor-1.2.0-mac.zip",
-  "url_win": "",
-  "notes": "Refonte totale"
+  "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.2.0/Processor-1.2.0-win.zip",
+  "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.2.0"
 }
