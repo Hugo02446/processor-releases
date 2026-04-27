@@ -1,6 +1,8 @@
 {
   "version": "1.4.0",
-  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.4.0/Processor-1.4.0-mac.zip",
+  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.4.0/Processor-1.4.0-mac-intel.zip",
+  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.4.0/Processor-1.4.0-mac-intel.zip",
+  "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.4.0/Processor-1.4.0-mac-apple-silicon.zip",
   "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.4.0/Processor-1.4.0-win.zip",
   "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.4.0"
 }
