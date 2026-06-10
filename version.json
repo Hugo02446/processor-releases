@@ -1,12 +1,12 @@
 {
-  "version": "1.5.4",
-  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.4/Processor-1.5.4-mac-intel.zip",
-  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.4/Processor-1.5.4-mac-intel.zip",
-  "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.4/Processor-1.5.4-mac-apple-silicon.zip",
-  "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.4/Processor-1.5.4-win.zip",
-  "sha256_mac": "ce499601924c60016ead23e57662f92603f2de7c736570102d01471ae6347c40",
-  "sha256_mac_intel": "ce499601924c60016ead23e57662f92603f2de7c736570102d01471ae6347c40",
-  "sha256_mac_apple_silicon": "d5f8f51a568d576f342959a64780b135cf7d4c03edf4efa5a7f9ded8c0b269b8",
-  "sha256_win": "cdc744f7d110ba407327dfd6c4f3104f73ccb3022fa05b911536131d48a625e9",
-  "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.5.4"
+  "version": "1.5.5",
+  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.5/Processor-1.5.5-mac-intel.zip",
+  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.5/Processor-1.5.5-mac-intel.zip",
+  "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.5/Processor-1.5.5-mac-apple-silicon.zip",
+  "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.5/Processor-1.5.5-win.zip",
+  "sha256_mac": "5bceb07905b9a34f8581e30f748f6c67d524d894ba6b904aa306863821308b80",
+  "sha256_mac_intel": "5bceb07905b9a34f8581e30f748f6c67d524d894ba6b904aa306863821308b80",
+  "sha256_mac_apple_silicon": "753a446dbfd3dccee71778e070a909872e91dad7b3abc6548b3de5e5b8d98ae3",
+  "sha256_win": "7d18941ed6ded47e3568ca095fb633839771c36cd8dfb411a9597f41f251bc29",
+  "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.5.5"
 }
