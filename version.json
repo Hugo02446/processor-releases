@@ -6,7 +6,7 @@
   "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.7/Processor-1.5.7-win.zip",
   "sha256_mac": "1e9f3ac8817b3e381206d65f7c6f143b422cd65b545e9bfef1f514029a650ddc",
   "sha256_mac_intel": "1e9f3ac8817b3e381206d65f7c6f143b422cd65b545e9bfef1f514029a650ddc",
-  "sha256_mac_apple_silicon": "f2edf7371d5c87f5ab14cb60c710b5c5e9fab5de2858908b2d20e0bc499c073b",
-  "sha256_win": "fffd14197e58f63ccdfd4960156c697875a4b3b926766b23ec55230918f52e46",
+  "sha256_mac_apple_silicon": "1e6c51405d879bc503790439c865de0ab67353bf8d96c59767f2ae0fbcb6c7cf",
+  "sha256_win": "58b0c187ecae0a091643db8933ab741e2dc29d1bd7922b025e3c4a6e092dc42c",
   "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.5.7"
 }
