@@ -1,12 +1,12 @@
 {
-  "version": "1.5.8",
-  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.8/Processor-1.5.8-mac-intel.zip",
-  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.8/Processor-1.5.8-mac-intel.zip",
-  "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.8/Processor-1.5.8-mac-apple-silicon.zip",
-  "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.8/Processor-1.5.8-win.zip",
-  "sha256_mac": "7c33ff73d130af43e8c1430bf326e776ad610e6d71bd4f0224b1103c6380c642",
-  "sha256_mac_intel": "7c33ff73d130af43e8c1430bf326e776ad610e6d71bd4f0224b1103c6380c642",
-  "sha256_mac_apple_silicon": "fcd103012717668426f8a7ca9df63c19377c66d99f3c8bbae41cc7d083add294",
-  "sha256_win": "14023803270e31965eeb21782f0affce89ba6bec7b89f76c5ca8cc2b398398e4",
-  "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.5.8"
+  "version": "1.5.9",
+  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.9/Processor-1.5.9-mac-intel.zip",
+  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.9/Processor-1.5.9-mac-intel.zip",
+  "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.9/Processor-1.5.9-mac-apple-silicon.zip",
+  "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.5.9/Processor-1.5.9-win.zip",
+  "sha256_mac": "508afd067a6f86dc6a9505778624e20ec2ae4fb18b4dfafdb688ec8f8c0ce7d1",
+  "sha256_mac_intel": "508afd067a6f86dc6a9505778624e20ec2ae4fb18b4dfafdb688ec8f8c0ce7d1",
+  "sha256_mac_apple_silicon": "4150bacc10a388852b5dcc11eddf58e206a9651eb8e6f6c5feb0d35839dff40d",
+  "sha256_win": "7d5d1821310b19caad0ad922be70f1997f76dd73fc5538aa1f50b80c8f4588c2",
+  "notes": "Voir https://github.com/Hugo02446/processor-releases/releases/tag/v1.5.9"
 }
