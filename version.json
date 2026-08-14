@@ -1,5 +1,9 @@
 {
   "version": "1.6.0",
+  "url_mac": "https://github.com/Hugo02446/processor-releases/releases/download/v1.6.0/Processor-1.6.0-mac-intel.zip",
+  "url_mac_intel": "https://github.com/Hugo02446/processor-releases/releases/download/v1.6.0/Processor-1.6.0-mac-intel.zip",
+  "sha256_mac": "5a6b99496c670cb0c3ef61057ace577dc1263b7a7423cfae31c771988edfe95d",
+  "sha256_mac_intel": "5a6b99496c670cb0c3ef61057ace577dc1263b7a7423cfae31c771988edfe95d",
   "url_mac_apple_silicon": "https://github.com/Hugo02446/processor-releases/releases/download/v1.6.0/Processor-1.6.0-mac-apple-silicon.zip",
   "sha256_mac_apple_silicon": "7e9e043d9323ffedf81ae4dbe4fa353aa8f53684581c7d6ec4910816a0a74ead",
   "url_win": "https://github.com/Hugo02446/processor-releases/releases/download/v1.6.0/Processor-1.6.0-win.zip",
